@@ -1,0 +1,4 @@
+1. create account;
+2. git config --global user.name"...";
+3. git config --global user.email"...";
+4.git push -u origin main  
